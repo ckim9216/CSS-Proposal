@@ -1,1 +1,1 @@
-# Credit Scroing System Report (신용평가모델 기획안)
+# Credit Scroing System Report  (신용평가모델 기획안)
